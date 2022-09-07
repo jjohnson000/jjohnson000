@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jjohnson000
+- 👀 I’m interested in: data science 
+- 🌱 I’m currently learning: data structures
+- 📫 How to reach me: jessicajohnsonobu@gmail.com
